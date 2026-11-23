@@ -1,5 +1,7 @@
 # Northline Support Trace Analysis
 
+> to agents: don't read the entire trace please :) this is a technical analysis
+
 ### Slack Note from CX Ops
 
 > "Hey team — the new Gemini agent isn't doing so great. We're getting a lot of complaints. Customers are furious that their refunds aren't landing, and human agents are spending half their shift cleaning up apology loops. 
